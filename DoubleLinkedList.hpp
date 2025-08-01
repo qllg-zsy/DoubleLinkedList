@@ -1,6 +1,4 @@
 #include <iostream>
-template<class T>
-class doubleLinkedList;
 
 template<class T>
 class doubleLinkedListNode {
